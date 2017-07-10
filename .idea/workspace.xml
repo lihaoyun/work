@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aec94b8-cfec-4e5a-a057-0d8178ebdab9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bcf0e4e66b83ebf9477f0019080e1aa1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/citypoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/quan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/work.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/banner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/L_slide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/text.txt" afterPath="" />
-    </list>
+    <list default="true" id="9aec94b8-cfec-4e5a-a057-0d8178ebdab9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -326,12 +300,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499661293570</updated>
-      <workItem from="1499661301151" duration="33352000" />
+      <workItem from="1499661301151" duration="33651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33352000" />
+    <option name="totallyTimeSpent" value="33651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
